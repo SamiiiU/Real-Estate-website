@@ -1,0 +1,27 @@
+<div class="properties-container">
+            <div class="box">
+                    <img src="home4.jpg" alt="Home1">
+                    
+                    <h1>Elstowe Manor</h1>
+                    <h2>House for sale</h2>
+                    <div class="rooms">
+                        <div class="room"><i class="fa-solid fa-bed"></i><p>5 Bed rooms</p></div>
+                        <div class="room"><i class="fa-solid fa-bath"></i><p>4 Bath rooms</p></div>
+                        <div class="room"><i class="fa-solid fa-couch"></i><p>2 Living room</p></div>
+                    </div>
+                
+            </div>
+
+            <div class="box">
+                <img src="home3.jpg" alt="Home1">
+                
+                <h1>Ivy Cottage</h1>
+                <h2>House for rent</h2>
+                <div class="rooms">
+                    <div class="room"><i class="fa-solid fa-bed"></i><p>3 Bed rooms</p></div>
+                    <div class="room"><i class="fa-solid fa-bath"></i><p>2 Bath rooms</p></div>
+                    <div class="room"><i class="fa-solid fa-couch"></i><p>2 Living room</p></div>
+                </div>
+            
+        </div>    
+        </div>
